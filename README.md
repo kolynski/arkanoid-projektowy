@@ -11,4 +11,4 @@ Gra Arkanoid posiadająca 3 poziomy trudności
 - belka(paddle): https://opengameart.org/content/basic-arkanoid-pack
 
 ## Autor 
-Projekt został stworzony kolynski
+Projekt został stworzony przez kolynski
