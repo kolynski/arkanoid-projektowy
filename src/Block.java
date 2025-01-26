@@ -76,7 +76,7 @@ public class Block {
                 color = Color.BLACK;
                 break;
             case 2:
-                color = new Color(139, 0, 0); // Dark red
+                color = new Color(139, 0, 0); 
                 break;
             case 1:
                 color = Color.RED;

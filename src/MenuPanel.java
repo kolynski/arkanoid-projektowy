@@ -2,8 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.List;
-import javax.imageio.ImageIO; // Dodaj ten import
-import java.io.File;         // Dodaj ten import
+import javax.imageio.ImageIO; 
+import java.io.File;         
 
 public class MenuPanel extends JPanel implements KeyListener {
     private JFrame parentFrame;
